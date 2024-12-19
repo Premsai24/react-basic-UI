@@ -22,7 +22,7 @@ const Header = () => {
         </div>
         <div className="right">
             <div className="signin">
-                Signin / Signup
+                Sign in / Sign up
             </div>
             <div className="cart">
                 Cart
